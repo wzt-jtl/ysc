@@ -1,0 +1,49 @@
+{
+  "showTime": 79200000,
+  "txt": "软件接口免费，请勿受骗购买！",
+  "limitShowText": "提示 适配【蜂蜜影视】、【OK影视】和【宝盒】观看",
+  "msg": "📢公告：🐜威震天จุ๊บ特别提醒您⚠️此线路仅供内部人员测试观看。所有资源来源于网络，如有侵权我也懒得删！😃⚠️请勿相信视频中的广告，以免上当受骗❗️🚫如有失效资源线路或🔞少儿不宜资源,及时联系修复更新或删除❗️🐉祝您观影快乐🎈🎉🎊✨🎈🎉🎊✨",
+  "date": "20220304000000",
+  "duration": 30
+}
+
+
+
+{"showTime":79200000,"txt":"软件接口免费，请勿受骗购买！",
+"limitShowText":"提示 适配『影视仓』App 观看",
+"msg": "✈️✈️✈️一定要记得关注我的TG频道 https://t.me/stymei",
+"date": "20220304000000",
+"duration": 80}
+
+{"showTime":79200000,"txt":"软件接口免费，请勿受骗购买！",
+"limitShowText":"提示 适配『平安视界』观看",
+"msg": "😄被你发现了，此线路为最新测试线路，还在不断优化ing 👨‍💻🔥🔥🔥Stronger敬告🌹🌹🌹：资源来自网络如有侵权我也懒得删！国内ISP线路限制，播放不正常实属正常！请勿信视频内植广告和公众号引流！且用且珍惜！✈️✈️✈️Happy everyday 平平&安安！🍨🎂🍭🍬🍔",
+"date": "20220304000000",
+"duration": 30}
+
+
+
+{
+      "key": "裤佬豆瓣片单",
+      "name": "公众号【白虾工具】搜集整合",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/stymei/paomadeng.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/stymei/paomadeng.txt"
+    },
+
+
+{
+            "key": "drpy_js_豆瓣",
+            "name": "🔥平安™邀您畅享视界",
+            "type": 3,
+            "api": "csp_Douban",
+            "jar": "https://mpimg.cn/down.php/34dc804020748504a15e2767b37656c3.jar",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://cnb.cool/cnlv/tv/-/git/raw/main/3.txt"
+        },
