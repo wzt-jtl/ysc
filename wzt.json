@@ -380,59 +380,236 @@
             "api": "https://pan.szfx.top/down.php/8dfa4f12d5103360fd8b79d618d5a8a1.js"
         },
         {
-            "key": "葫芦",
-            "name": "🌀葫芦┃1920",
+            "name": "🚀韩剧┃秒播",
+            "key": "Hxq",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-            "ext": {
-                "host": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt",
-                "key": "8R33VQSxzmCaHpEX",
-                "init": "V122",
-                "api": 2,
-                "ua": "https://0.12yue.de5.net/5/okhttp/3.10.0"
-            }
-        },
-        {
-            "key": "华数",
-            "name": "🌀华数┃1920",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/华数.py",
+            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "api": "csp_HxqAmns",
+            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 1
         },
         {
-            "key": "藤藤",
-            "name": "🌀藤藤┃1920",
+            "name": "🚀瓜子┃秒播",
+            "key": "Guazi",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
+            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "api": "csp_GuaziAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "Guazi"
         },
         {
-            "key": "茫茫",
-            "name": "🌀茫茫┃1920",
+            "name": "🚀金牌┃秒播",
+            "key": "JinPai",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
+            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "api": "csp_JinPaiAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
-            "key": "小优",
-            "name": "🌀小优┃1280",
+            "name": "🚀秋天┃秒播",
+            "key": "NewGrV2",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/小优.png"
+            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "api": "csp_NewGrV2Amns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "NewGrV2"
         },
         {
-            "key": "小爱",
-            "name": "🌀小爱┃1280",
+            "name": "📦①线┃秒播",
+            "key": "AppV7Fz",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/小爱.png"
+            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "api": "csp_AppV7Amns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AppV7Fz"
         },
         {
-            "key": "小哩",
-            "name": "🌀小哩┃1280",
+            "name": "📦②线┃秒播",
+            "key": "AppV7Xy",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/小哩.png"
+            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "api": "csp_AppV7Amns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AppV7Xy"
+        },
+        {
+            "name": "📦③线┃秒播",
+            "key": "AppV7Zjdr",
+            "type": 3,
+            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "api": "csp_AppV7Amns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AppV7Zjdr"
+        },
+        {
+            "name": "📦④线┃秒播",
+            "key": "AppV7Xyz",
+            "type": 3,
+            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "api": "csp_AppV7Amns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AppV7Xyz"
+        },
+        {
+            "name": "📦⑤线┃秒播",
+            "key": "AppV7Xnm",
+            "type": 3,
+            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "api": "csp_AppV7Amns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AppV7Xnm"
+        },
+        {
+            "name": "📦⑥线┃秒播",
+            "key": "AppV7Mtq",
+            "type": 3,
+            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "api": "csp_AppV7Amns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AppV7Mtq"
+        },
+        {
+            "name": "📦⑦线┃秒播",
+            "key": "AppV7Llq",
+            "type": 3,
+            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "api": "csp_AppV7Amns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AppV7Llq"
+        },
+        {
+            "name": "📦⑧线┃秒播",
+            "key": "AppV7Xsz",
+            "type": 3,
+            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "api": "csp_AppV7Amns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AppV7Xsz"
+        },
+        {
+            "name": "📦⑨线┃秒播",
+            "key": "AppV7Xhr",
+            "type": 3,
+            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "api": "csp_AppV7Amns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AppV7Xhr"
+        },
+        {
+            "name": "📦师兄┃秒播",
+            "key": "AppV7Dsx",
+            "type": 3,
+            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "api": "csp_AppV7Amns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AppV7Dsx"
+        },
+        {
+            "key": "飞飞丨APP",
+            "name": "飞飞丨APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://qpcj.69mini.com/api.php/app/"
+        },
+        {
+            "key": "奶酪",
+            "name": "🧀奶酪┃秒播",
+            "type": 3,
+            "jar": "https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+            "api": "csp_T4Guard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="
+        },
+        {
+            "key": "厂长",
+            "name": "📔厂长┃秒播",
+            "type": 3,
+            "jar": "https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+            "api": "csp_NewCzGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "比特",
+            "name": "🍄比特┃秒播",
+            "type": 3,
+            "jar": "https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+            "api": "csp_BttwooGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "糯米",
+            "name": "🍓糯米┃多线",
+            "type": 3,
+            "jar": "https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+            "api": "csp_NmyswvGuard",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "热播",
+            "name": "📺热播┃多线",
+            "type": 3,
+            "jar": "https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+            "api": "csp_AppTTGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "uqGL1bNENExT7/hGxpSE5qU="
+        },
+        {
+            "key": "剧圈",
+            "name": "🐻剧圈┃多线",
+            "type": 3,
+            "jar": "https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
         },
         {
             "key": "苹果",
@@ -2124,16 +2301,6 @@
             "name": "📺哔哩｜点播",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩直播.py"
-        },
-        {
-            "key": "飞飞丨APP",
-            "name": "飞飞丨APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://qpcj.69mini.com/api.php/app/"
         }
     ],
     "parses": [
