@@ -1,9 +1,9 @@
 {
     "notice": "👑 欢迎使用【威震天接口】！本接口干净流畅.🚨 重要提示：资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]\n\n\n👑 🚨 重要提示：✨⚠️🐜威震天จุ๊บ特别提醒您⚠️请勿相信视频中的广告，以免上当受骗❗️🐉祝:您观影快乐🎈🎉🎊✨",
-    "spider": "./spider.jar",
+    "spider": "https://wp.kayyw.com/f/xlALFY/spider.jar",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "warningText": "资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
-    "logo": "./logo.gif",
+    "logo": "https://www.cdifit.cn/f/VN5fG/logo.gif",
     "lives": [
         {
             "name": "🐉冬哥TV直播",
@@ -330,11 +330,11 @@
             "name": "✨⚠️🐜威震天จุ๊บ特别提醒您⚠️请勿相信视频中的广告，以免上当受骗❗️🐉祝:您观影快乐🎈🎉🎊✨",
             "type": 3,
             "api": "csp_Douban",
-            "jar": "./paomadeng.jar",
+            "jar": "https://www.cdifit.cn/f/zVbI5/paomadeng.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./公告.json"
+            "ext": "https://www.cdifit.cn/f/oJ3Ub/%E5%85%AC%E5%91%8A.json"
         },
         {
             "key": "预告",
@@ -374,6 +374,857 @@
             "playerType": 2
         },
         {
+            "key": "WexHanXiaoQuan",
+            "name": "💥韩剧┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAiHanXiaoQuanGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiGuaZi",
+            "name": "💥瓜子┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAiGuaZiGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiDuBoKu",
+            "name": "💥独播┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAiDuBoKuGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiYueYue",
+            "name": "💥闪电┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAiYueYueGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexFengYe4K",
+            "name": "💥小枫┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexFengYe4KGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "賤賤",
+            "name": "💥贱片┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAiJianPianGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "AppV7 | 大师兄",
+            "name": "💥师兄┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Dsx",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 粉猪追剧",
+            "name": "💥粉猪┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Fz",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 咸鱼",
+            "name": "💥咸鱼┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Xy",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 追剧达人",
+            "name": "💥追剧┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Zjdr",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 小柚子",
+            "name": "💥柚子┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Xyz",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 小柠檬",
+            "name": "💥柠檬┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Xnm",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 蒙太奇",
+            "name": "💥太奇┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Mtq",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 零零七影视",
+            "name": "💥零七┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Llq",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 小柿子",
+            "name": "💥柿子┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Xsz",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 小黄人",
+            "name": "💥黄人┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Xhr",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "WexAiReBo",
+            "name": "💥热播┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAiReBoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiBoBo",
+            "name": "🎇伯伯┃秒播🎇",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAiBoBoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiIkanBot",
+            "name": "🎇爱看┃采集🎇",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAiIkanBotGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexHanXiaoQuan",
+            "name": "💥韩剧┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAiHanXiaoQuanGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiGuaZi",
+            "name": "💥瓜子┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAiGuaZiGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiDuBoKu",
+            "name": "💥独播┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAiDuBoKuGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiYueYue",
+            "name": "💥闪电┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAiYueYueGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexFengYe4K",
+            "name": "💥小枫┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexFengYe4KGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "賤賤",
+            "name": "💥贱片┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAiJianPianGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "AppV7 | 大师兄",
+            "name": "💥师兄┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Dsx",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 粉猪追剧",
+            "name": "💥粉猪┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Fz",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 咸鱼",
+            "name": "💥咸鱼┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Xy",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 追剧达人",
+            "name": "💥追剧┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Zjdr",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 小柚子",
+            "name": "💥柚子┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Xyz",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 小柠檬",
+            "name": "💥柠檬┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Xnm",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 蒙太奇",
+            "name": "💥太奇┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Mtq",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 零零七影视",
+            "name": "💥零七┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Llq",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 小柿子",
+            "name": "💥柿子┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Xsz",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 小黄人",
+            "name": "💥黄人┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Xhr",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "WexAiReBo",
+            "name": "💥热播┃秒播💥",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAiReBoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiBoBo",
+            "name": "🎇伯伯┃秒播🎇",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAiBoBoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiIkanBot",
+            "name": "🎇爱看┃采集🎇",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_WexAiIkanBotGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "name": "⭐热播┃快速",
+            "key": "Rbys",
+            "type": 3,
+            "jar": "./aw.png",
+            "api": "csp_RbysAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "Rbys"
+        },
+        {
+            "name": "⭐杜北┃秒播",
+            "key": "Dubk",
+            "type": 3,
+            "jar": "./aw.png",
+            "api": "csp_DubkAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "Dubk"
+        },
+        {
+            "name": "⭐荐片┃快速",
+            "key": "JPian",
+            "type": 3,
+            "jar": "./aw.png",
+            "api": "csp_JPianAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "JPian"
+        },
+        {
+            "key": "LiveHuYa",
+            "name": "虎牙┃直播",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_LiveAiHuYaGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "LiveDouYu",
+            "name": "斗鱼┃直播",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_LiveAiDouYuGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "LiveBiLi",
+            "name": "🅱️哔哩┃直播🅱️",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_LiveAiBiLiGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "ManJuAiHongGuo",
+            "name": "🍉漫短┃小红🍉",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "类型": "短剧",
+            "api": "csp_ManJuAiHongGuoGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "ManJuAiHuoLong",
+            "name": "🍉漫剧┃小龙🍉",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "类型": "短剧",
+            "api": "csp_ManJuAiHuoLongGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "ManJuAiQiMao",
+            "name": "🍉漫剧┃小猫🍉",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "类型": "短剧",
+            "api": "csp_ManJuAiQiMaoGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "ManJuAiXiFan",
+            "name": "🍉漫短┃小喜🍉",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "类型": "短剧",
+            "api": "csp_ManJuAiXiFanGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "ManJuAiHeMa",
+            "name": "🍉漫短┃小马🍉",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "类型": "短剧",
+            "api": "csp_ManJuAiHeMaGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "DuanJuAiHaoKan",
+            "name": "🍉短剧┃好看🍉",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "类型": "短剧",
+            "api": "csp_DuanJuAiHaoKanGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "DuanJuAiQiMiao",
+            "name": "🍉短剧┃小猫🍉",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "类型": "短剧",
+            "api": "csp_DuanJuAiQiMiaoGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "DuanJuAiXingYa",
+            "name": "🍉短剧┃星星🍉",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "类型": "短剧",
+            "api": "csp_DuanJuAiXingYaGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "AnimeXiFan",
+            "name": "🤡稀饭┃动漫🤡",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_AnimeXiFanGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "AnimeCiYuanCheng",
+            "name": "🤡次元┃动漫🤡",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_AnimeCiYuanChengGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "BookHongGuo",
+            "name": "🎃‍小红┃听书🎃",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_BookHongGuoGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "BookHeMa",
+            "name": "🎃‍小马┃听书🎃",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_BookHeMaGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "BookAiShiJie",
+            "name": "🎃‍极品┃听书🎃",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_BookAiShiJieGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "BookAiYueTing",
+            "name": "🎃‍悦庭┃听书🎃",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_BookAiYueTingGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "timeout": 120
+        },
+        {
+            "key": "BookAi23TingShu",
+            "name": "🎃‍爱上┃听书🎃",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_BookAi23TingShuGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MusicAiQingTing",
+            "name": "🎼蜻蜓┃电台🎼",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_MusicAiQingTingGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MusicAiIKtv",
+            "name": "🎼KTV┃音乐🎼",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_MusicAiIKtvGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MusicAiKuWoa",
+            "name": "🎼小酷┃音乐🎼",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_MusicAiKuWoaGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MusicAi163",
+            "name": "🎼易听┃音乐🎼",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_MusicAi163Guard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MusicAiKuWo",
+            "name": "🎼酷听┃音乐🎼",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_MusicAiKuWoGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MusicAiLunHui",
+            "name": "🎼轮回┃舞曲🎼",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_MusicAiLunHuiGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "SportAiFeiQiu",
+            "name": "🌐飞球┃体育🌐",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_SportAiFeiQiuGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "SportAiGuaZi",
+            "name": "🌐瓜子┃体育🌐",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_SportAiGuaZiGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "SportAiKanQiuTong",
+            "name": "🌐球通┃体育🌐",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_SportAiKanQiuTongGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "SportAiKanqiu",
+            "name": "🌐八八┃体育🌐",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_SportAiKanqiuGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "SportAiKaFei",
+            "name": "🌐咖啡┃体育🌐",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_SportAiKaFeiGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "SportAiWwe",
+            "name": "🌐WWE┃体育🌐",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_SportAiWweGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "biliys",
+            "name": "🅱哔哩┃影视🅱",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_BiliYsGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "bilibili",
+            "name": " 🅱‍哔哩┃合集🅱‍",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_BiliGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47a8ff0e68559a89a9a75b37d09a2b0854dc5a8a/bili001.txt"
+            }
+        },
+        {
+            "key": "bilixiqu",
+            "name": " 🅱‍哔哩┃戏曲🅱‍",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_BiliGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/183E562_773_xiqu_20251130182006749newMediaImage.txt"
+            }
+        },
+        {
+            "key": "biliych",
+            "name": " 🅱‍哔哩┃歌曲🅱‍",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/WkjeHe/xh.jpg",
+            "api": "csp_BiliGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
+            }
+        },
+        {
             "key": "裤佬电视直播",
             "name": "👖丨电视丨直播",
             "type": 3,
@@ -383,7 +1234,7 @@
             "name": "🚀韩剧┃秒播",
             "key": "Hxq",
             "type": 3,
-            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "jar": "https://wp.kayyw.com/f/Y8QxSo/aw.png",
             "api": "csp_HxqAmns",
             "searchable": 1,
             "quickSearch": 1,
@@ -393,7 +1244,7 @@
             "name": "🚀瓜子┃秒播",
             "key": "Guazi",
             "type": 3,
-            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "jar": "https://wp.kayyw.com/f/Y8QxSo/aw.png",
             "api": "csp_GuaziAmns",
             "searchable": 1,
             "quickSearch": 1,
@@ -404,7 +1255,7 @@
             "name": "🚀金牌┃秒播",
             "key": "JinPai",
             "type": 3,
-            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "jar": "https://wp.kayyw.com/f/Y8QxSo/aw.png",
             "api": "csp_JinPaiAmns",
             "searchable": 1,
             "quickSearch": 1,
@@ -414,7 +1265,7 @@
             "name": "🚀秋天┃秒播",
             "key": "NewGrV2",
             "type": 3,
-            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "jar": "https://wp.kayyw.com/f/Y8QxSo/aw.png",
             "api": "csp_NewGrV2Amns",
             "searchable": 1,
             "quickSearch": 1,
@@ -425,7 +1276,7 @@
             "name": "📦①线┃秒播",
             "key": "AppV7Fz",
             "type": 3,
-            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "jar": "https://wp.kayyw.com/f/Y8QxSo/aw.png",
             "api": "csp_AppV7Amns",
             "searchable": 1,
             "quickSearch": 1,
@@ -436,7 +1287,7 @@
             "name": "📦②线┃秒播",
             "key": "AppV7Xy",
             "type": 3,
-            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "jar": "https://wp.kayyw.com/f/Y8QxSo/aw.png",
             "api": "csp_AppV7Amns",
             "searchable": 1,
             "quickSearch": 1,
@@ -447,7 +1298,7 @@
             "name": "📦③线┃秒播",
             "key": "AppV7Zjdr",
             "type": 3,
-            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "jar": "https://wp.kayyw.com/f/Y8QxSo/aw.png",
             "api": "csp_AppV7Amns",
             "searchable": 1,
             "quickSearch": 1,
@@ -458,7 +1309,7 @@
             "name": "📦④线┃秒播",
             "key": "AppV7Xyz",
             "type": 3,
-            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "jar": "https://wp.kayyw.com/f/Y8QxSo/aw.png",
             "api": "csp_AppV7Amns",
             "searchable": 1,
             "quickSearch": 1,
@@ -469,7 +1320,7 @@
             "name": "📦⑤线┃秒播",
             "key": "AppV7Xnm",
             "type": 3,
-            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "jar": "https://wp.kayyw.com/f/Y8QxSo/aw.png",
             "api": "csp_AppV7Amns",
             "searchable": 1,
             "quickSearch": 1,
@@ -480,7 +1331,7 @@
             "name": "📦⑥线┃秒播",
             "key": "AppV7Mtq",
             "type": 3,
-            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "jar": "https://wp.kayyw.com/f/Y8QxSo/aw.png",
             "api": "csp_AppV7Amns",
             "searchable": 1,
             "quickSearch": 1,
@@ -491,7 +1342,7 @@
             "name": "📦⑦线┃秒播",
             "key": "AppV7Llq",
             "type": 3,
-            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "jar": "https://wp.kayyw.com/f/Y8QxSo/aw.png",
             "api": "csp_AppV7Amns",
             "searchable": 1,
             "quickSearch": 1,
@@ -502,7 +1353,7 @@
             "name": "📦⑧线┃秒播",
             "key": "AppV7Xsz",
             "type": 3,
-            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "jar": "https://wp.kayyw.com/f/Y8QxSo/aw.png",
             "api": "csp_AppV7Amns",
             "searchable": 1,
             "quickSearch": 1,
@@ -513,7 +1364,7 @@
             "name": "📦⑨线┃秒播",
             "key": "AppV7Xhr",
             "type": 3,
-            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "jar": "https://wp.kayyw.com/f/Y8QxSo/aw.png",
             "api": "csp_AppV7Amns",
             "searchable": 1,
             "quickSearch": 1,
@@ -524,7 +1375,7 @@
             "name": "📦师兄┃秒播",
             "key": "AppV7Dsx",
             "type": 3,
-            "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+            "jar": "https://wp.kayyw.com/f/Y8QxSo/aw.png",
             "api": "csp_AppV7Amns",
             "searchable": 1,
             "quickSearch": 1,
@@ -545,7 +1396,7 @@
             "key": "奶酪",
             "name": "🧀奶酪┃秒播",
             "type": 3,
-            "jar": "https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+            "jar": "https://wp.kayyw.com/f/lXDoIz/jtl.jpg",
             "api": "csp_T4Guard",
             "searchable": 1,
             "quickSearch": 1,
@@ -556,7 +1407,7 @@
             "key": "厂长",
             "name": "📔厂长┃秒播",
             "type": 3,
-            "jar": "https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+            "jar": "https://wp.kayyw.com/f/lXDoIz/jtl.jpg",
             "api": "csp_NewCzGuard",
             "timeout": 10,
             "playerType": 2,
@@ -568,7 +1419,7 @@
             "key": "比特",
             "name": "🍄比特┃秒播",
             "type": 3,
-            "jar": "https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+            "jar": "https://wp.kayyw.com/f/lXDoIz/jtl.jpg",
             "api": "csp_BttwooGuard",
             "timeout": 10,
             "searchable": 1,
@@ -579,7 +1430,7 @@
             "key": "糯米",
             "name": "🍓糯米┃多线",
             "type": 3,
-            "jar": "https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+            "jar": "https://wp.kayyw.com/f/lXDoIz/jtl.jpg",
             "api": "csp_NmyswvGuard",
             "timeout": 15,
             "searchable": 1,
@@ -590,7 +1441,7 @@
             "key": "热播",
             "name": "📺热播┃多线",
             "type": 3,
-            "jar": "https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+            "jar": "https://wp.kayyw.com/f/lXDoIz/jtl.jpg",
             "api": "csp_AppTTGuard",
             "timeout": 10,
             "playerType": 2,
@@ -603,7 +1454,7 @@
             "key": "剧圈",
             "name": "🐻剧圈┃多线",
             "type": 3,
-            "jar": "https://xiuxiu-pro-new.meitudata.com/posters/2b32255aa9e7a9fd1913c1d0019e2be4.jpg;md5;2cc088afa757ba8bafffcfbab4b73ccc",
+            "jar": "https://wp.kayyw.com/f/lXDoIz/jtl.jpg",
             "api": "csp_AppSxGuard",
             "timeout": 10,
             "searchable": 1,
@@ -684,17 +1535,6 @@
             }
         },
         {
-            "key": "骚火",
-            "name": "🌶️骚火[影视]",
-            "type": 3,
-            "api": "csp_SaoHuo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://shdy5.us"
-        },
-        {
             "key": "独播",
             "name": "🎯独播[影视]",
             "type": 3,
@@ -758,47 +1598,6 @@
             "timeout": 60
         },
         {
-            "key": "七猫短剧",
-            "name": "🎬七猫┃短剧",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qmdj.py"
-        },
-        {
-            "key": "七星短剧",
-            "name": "🎬七星丨短剧",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/qxdj.py"
-        },
-        {
-            "key": "百度短剧",
-            "name": "🎬百度丨短剧",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/bddj.js",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-        {
-            "key": "聚合短剧",
-            "name": "🎬聚合丨短剧",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jhdj.js",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-        {
-            "key": "🎬星芽┃短剧",
-            "name": "🎬星芽┃短剧",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/星芽短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "genre": "shortdrama"
-        },
-        {
             "key": "围观短剧",
             "name": "🦋 围观 • 短剧",
             "type": 3,
@@ -823,17 +1622,6 @@
             "genre": "shortdrama",
             "ext": "",
             "category": "短剧"
-        },
-        {
-            "key": "星芽｜短剧",
-            "name": "星芽｜短剧",
-            "type": 3,
-            "api": "https://cnb.cool/fish2018/xs/-/git/raw/main/py/星芽短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "genre": "shortdrama"
         },
         {
             "key": "cj_360资源",
@@ -930,13 +1718,6 @@
             "api": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js",
             "changeable": 0,
             "ext": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/js/酷6网.js"
-        },
-        {
-            "key": "去看吧",
-            "name": "👖丨去看丨动漫",
-            "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-            "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%8E%BB%E7%9C%8B%E5%90%A7.png"
         },
         {
             "key": "喵呜次元",
@@ -2241,66 +3022,6 @@
                 "现代都市",
                 "邵氏电影"
             ]
-        },
-        {
-            "key": "极影",
-            "name": "❤极影｜4K测试",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jy.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
-        },
-        {
-            "key": "火云",
-            "name": "♨️火云｜4k线路",
-            "type": 3,
-            "jar": "./pg.jar",
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/hy.js"
-        },
-        {
-            "key": "🌀华数｜1920",
-            "name": "🌀华数｜1920",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/华数.py",
-            "changeable": 1
-        },
-        {
-            "key": "🧲电影港｜磁力",
-            "name": "🧲电影港｜磁力",
-            "type": 3,
-            "jar": "./xyqxbpq.jar",
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/电影港.png"
-        },
-        {
-            "key": "听了么",
-            "name": "📻听歌｜音乐",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/tlm.js"
-        },
-        {
-            "key": "凤凰FM",
-            "name": "📻凤凰┃FM",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/凤凰FM.png"
-        },
-        {
-            "key": "网络直播",
-            "name": "📺网络｜点播",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/网络直播.py"
-        },
-        {
-            "key": "哔哩直播",
-            "name": "📺哔哩｜点播",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩直播.py"
         }
     ],
     "parses": [
